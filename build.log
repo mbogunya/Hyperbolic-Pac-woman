@@ -1,0 +1,10 @@
+
+> hyperbolic-pac-woman@0.0.0 build
+> tsc -b && vite build
+
+src/App.tsx(122,226): error TS6133: 'totalLevels' is declared but its value is never read.
+src/App.tsx(122,1666): error TS6133: 'overlayMessage' is declared but its value is never read.
+src/App.tsx(124,1055): error TS6133: 'ghostNodes' is declared but its value is never read.
+src/App.tsx(124,1474): error TS6133: 'lastScore' is declared but its value is never read.
+src/App.tsx(124,2303): error TS6133: 'progress' is declared but its value is never read.
+src/App.tsx(125,7): error TS6133: 'statusText' is declared but its value is never read.
